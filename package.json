@@ -45,5 +45,16 @@
   "bugs": {
     "url": "https://github.com/jualoppaz/single-spa-auth-app-demo/issues"
   },
-  "homepage": "https://github.com/jualoppaz/single-spa-auth-app-demo#readme"
+  "homepage": "https://github.com/jualoppaz/single-spa-auth-app-demo#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-brands-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "single-spa-vue": "^1.8.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.3.4",
+    "vue-toastr": "^2.1.2"
+  }
 }
